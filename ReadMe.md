@@ -11,3 +11,9 @@
     - Редактирование элемента из списка "COMPLETED"
     - Установка элемента в статус незавершенного и перенос в список "TODO" через checkbox
     - Анимация на кнопке удаления
+
+1. Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/clean-code/clean-code-s1e1
+2. Deploy: https://liptongreen.github.io/clean-code-s1e1/index
+3. Done 04.04.2021 / deadline 05.04.2021
+4. Score: 45/45
+    - Все пункты задания выполнены.
